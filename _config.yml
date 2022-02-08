@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "m3x6"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "m3x6"
+name                     : "M3X6 Tech Blog"
 description              : "An amazing website."
 url                      : "https://m3x6.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
